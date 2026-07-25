@@ -1,3 +1,5 @@
+#!/c/Users/ismai/Documents/DiabloPi/.venv/Scripts/python.exe
+
 from flask import Flask, request, jsonify, render_template_string
 import base64
 import os
